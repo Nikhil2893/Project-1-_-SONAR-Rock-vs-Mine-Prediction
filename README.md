@@ -10,10 +10,17 @@ We are going to cover the following steps:
 ![001](https://user-images.githubusercontent.com/114944969/229302115-a7e1dab1-14ed-4395-9e20-fa208aa5a39d.jpg)
 
 2. Importing dataset
+![002](https://user-images.githubusercontent.com/114944969/229302218-d37652d9-1c86-4be4-96e7-95729ad6edeb.jpg)
+
 3. Splitting data into train and test
+![003](https://user-images.githubusercontent.com/114944969/229302275-b596b52a-4ee5-4beb-9248-75c2bd9d520b.jpg)
+
 4. Model Training with Logistic Regression
 5. Model Evaluation 
+![004](https://user-images.githubusercontent.com/114944969/229302355-da6f07be-af77-41f8-8628-90e8adb3632f.jpg)
+
 6. Making a Predictive System
+![005](https://user-images.githubusercontent.com/114944969/229302399-70f2c75f-b75f-4f1d-b5ff-02f12d024590.jpg)
 
 Accuracy of 83% achieved on training data and 76% achieved on test data.
 
