@@ -10,8 +10,10 @@ We are going to cover the following steps:
 2. Importing dataset
 3. Splitting data into train and test
 4. Model Training with Logistic Regression
-5. Model Evaluation
+5. Model Evaluation 
 6. Making a Predictive System
+
+Accuracy of 83% achieved on training data and 76% achieved on test data.
 
 ## Acknowledgements
 
