@@ -7,8 +7,7 @@ The focus of this project will be the Sonar Mines vs Rocks dataset. The problem 
 We are going to cover the following steps:
 
 1. Importing Dependencies
-
-(images/001.jpg)
+![001](https://user-images.githubusercontent.com/114944969/229301915-62ed460a-d785-4463-bbc3-310ffcb33bbb.jpg)
 
 2. Importing dataset
 3. Splitting data into train and test
