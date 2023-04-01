@@ -55,7 +55,7 @@ I'm a DATA SCIENCE enthusiast...
 # Hi, I'm Nikhil! 👋
 
 ## 🛠 Skills
-Machine Learning, Deep Learning - ANN,CNN,RNN, Computer Vision,NLP,Statistics, Python, PostgreSQL, PowerBI, Tableau, Excel, GIS
+Machine Learning, Deep Learning - ANN,CNN,RNN, Computer Vision,NLP,Statistics,Strategic Planning, Urban Planning, Python, PostgreSQL, PowerBI, Tableau, Excel, GIS
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
