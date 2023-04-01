@@ -7,7 +7,7 @@ The focus of this project will be the Sonar Mines vs Rocks dataset. The problem 
 We are going to cover the following steps:
 
 1. Importing Dependencies
-![](images/001.png)
+(images/001.jpg)
 2. Importing dataset
 3. Splitting data into train and test
 4. Model Training with Logistic Regression
