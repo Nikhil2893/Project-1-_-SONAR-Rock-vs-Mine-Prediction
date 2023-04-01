@@ -8,7 +8,7 @@ We are going to cover the following steps:
 
 1. Importing Dependencies
 
-(images/001.jpeg)
+(images/001.jpg)
 
 2. Importing dataset
 3. Splitting data into train and test
