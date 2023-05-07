@@ -64,4 +64,4 @@ Machine Learning, Deep Learning - ANN,CNN,RNN, Computer Vision,NLP,Statistics,St
 ## Feedback
 
 If you have any feedback, please reach out to us at 
-ar.nikhilwakode@gmail.com
+nikhilwakode2893@gmail.com
